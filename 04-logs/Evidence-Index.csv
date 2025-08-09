@@ -1,0 +1,13 @@
+ID,FileName,Description,Source,DateCollected,Relevance,HashSHA256,RedactedVersion,Notes
+E-001,,Google Photos screenshots (adri communication),Google Photos (Takeout),2025-08-09,Shows admission of intent,,E-001-GooglePhotos-selected,
+E-002,,Bank statements showing no commingling,Bank portal PDFs,2024-04-02,Supports lack of bona fide marriage,,E-002-redacted.pdf,
+E-008,,Screenshots of fake IDs,Device screenshots,YYYY-MM-DD,Suggests identity fraud,,E-008-redacted.pdf,
+E-009,,Emails showing payments for drugs,Email (.eml/.pdf),YYYY-MM-DD,Shows illicit payments,,E-009-redacted.pdf,
+E-010,,Background check docs with false names,PDF/HTML,YYYY-MM-DD,Shows use of false identities,,E-010-redacted.pdf,
+E-011,,Employment records under aliases,PDF/Images,YYYY-MM-DD,Shows employment under aliases,,E-011-redacted.pdf,
+E-002,,Audio conversations (.m4a),iPhone/Voice Memos,YYYY-MM-DD,Admissions/context,,E-002-redacted.pdf,
+E-003,,Audio journals (.m4a),iPhone/Voice Memos,YYYY-MM-DD,Contemporaneous notes,,E-003-redacted.pdf,
+E-004,,Timeline documents (original files),Docs/Spreadsheets,YYYY-MM-DD,Chronology corroboration,,E-004-redacted.pdf,
+E-005,,Conversation screenshots,Device screenshots,YYYY-MM-DD,Shows communications,,E-005-redacted.pdf,
+E-006,,Location screenshots,Device screenshots,YYYY-MM-DD,Places and dates,,E-006-redacted.pdf,
+E-007,,Location exports (KML/JSON/ZIP),Google/Apple location data,YYYY-MM-DD,Movement corroboration,,E-007-redacted.pdf,

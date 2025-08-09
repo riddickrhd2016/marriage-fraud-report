@@ -1,0 +1,7 @@
+02-evidence/raw/
+05-exports/
+*.zip
+*.7z
+*.rar
+*.tmp
+Thumbs.db

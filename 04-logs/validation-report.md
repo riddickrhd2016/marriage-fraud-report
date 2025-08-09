@@ -1,0 +1,413 @@
+# Evidence validation report
+
+Generated: 2025-08-09 17:32:15
+
+## Summary
+
+- Index rows: 12
+- Hash rows: 360
+- Raw files (known): 360
+- Missing columns in index: 
+- Duplicate IDs: 1
+- Index rows missing HashSHA256: 12
+- Index hashes not found in hashes.csv: 0
+- Index FileName not found on disk: 0
+- Redacted files missing: 11
+- Orphan raw files (not referenced by index): 360
+
+## Duplicate IDs
+
+- E-002
+
+## Index rows missing HashSHA256
+
+- ID: E-001 | File:  | Google Photos screenshots (adri communication)
+- ID: E-002 | File:  | Bank statements showing no commingling
+- ID: E-008 | File:  | Screenshots of fake IDs
+- ID: E-009 | File:  | Emails showing payments for drugs
+- ID: E-010 | File:  | Background check docs with false names
+- ID: E-011 | File:  | Employment records under aliases
+- ID: E-002 | File:  | Audio conversations (.m4a)
+- ID: E-003 | File:  | Audio journals (.m4a)
+- ID: E-004 | File:  | Timeline documents (original files)
+- ID: E-005 | File:  | Conversation screenshots
+- ID: E-006 | File:  | Location screenshots
+- ID: E-007 | File:  | Location exports (KML/JSON/ZIP)
+
+## RedactedVersion files missing
+
+- ID: E-002 | Redacted: E-002-redacted.pdf
+- ID: E-008 | Redacted: E-008-redacted.pdf
+- ID: E-009 | Redacted: E-009-redacted.pdf
+- ID: E-010 | Redacted: E-010-redacted.pdf
+- ID: E-011 | Redacted: E-011-redacted.pdf
+- ID: E-002 | Redacted: E-002-redacted.pdf
+- ID: E-003 | Redacted: E-003-redacted.pdf
+- ID: E-004 | Redacted: E-004-redacted.pdf
+- ID: E-005 | Redacted: E-005-redacted.pdf
+- ID: E-006 | Redacted: E-006-redacted.pdf
+- ID: E-007 | Redacted: E-007-redacted.pdf
+
+## Orphan raw files (not referenced by index)
+
+- adri communication-1-001.zip | 7E82668D2C7382FB3038528AF82B3878558813377830EDF56AF5CB655EF3A3E7 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\adri communication-1-001.zip
+- 2025-07-14.png | 90D3882859C3748DF7DC27B639849EA9B2FCE1A6AF05432F7FE8B931DD2F08B7 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\2025-07-14.png
+- 2025-07-14(1).png | 6FF961B7EC33FE33645D5FA3ACD097D34785F669A689008FE5489100D3174C97 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\2025-07-14(1).png
+- 2025-07-14(2).png | A07ED2D74DA25850CDF024365480C4D940D2966987B8DFB75AB025C741A5649C | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\2025-07-14(2).png
+- 2025-07-14(3).png | E69BA2E13980F3E28984FA9A29CBF9234ABE8D1502913B42653E21B45D20FB38 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\2025-07-14(3).png
+- Copy of ScreenRecording_03-05-2025 11-15-32_1.mp4 | 87FCB3D011F7DD25BDDD3590498EEB2A1162361E3C1CCAB7EB92C9D110CB7013 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\Copy of ScreenRecording_03-05-2025 11-15-32_1.mp4
+- IMG_0649.PNG | A8AAA6707A5482AA5B2F2750EFAD0E214C831B726AC6CED04106A03D12FBA583 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_0649.PNG
+- IMG_0650.PNG | 9CB759F74CFE685C566BF2B76EEFCC5129F4966771CD399EC0E30120741AE4DF | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_0650.PNG
+- IMG_0651.PNG | B6FBB3E8E2BED7E935703BA970F7962810BA0D7FDFE4CD69A288A127D7AF141C | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_0651.PNG
+- IMG_0652.PNG | EB6FD08146C44EAD2C81B3F323C97A42B6C8D0857C1C644DD08F06F089C36EEC | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_0652.PNG
+- IMG_0653.PNG | 1A13A99D68A91869376109AB50D82D0359ADFD724B048748076B0B567BCF18EF | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_0653.PNG
+- IMG_0708.PNG | 749BBF743ACCB5B8B8B051DF56DFC76BB9EB9CEDFE9F109BB02E900F1BAF3F63 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_0708.PNG
+- IMG_0711.PNG | BC856F9F8B27E4E94A86769440384D08CE6C19C9893ED42721368A0A2827E198 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_0711.PNG
+- IMG_0712.PNG | 1DC0222DCCF9DAF0FB2748377C79C9B828A4B11FEF9E63C4063EF0DE26BE319F | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_0712.PNG
+- IMG_0880.PNG | CB9EF0659D3DCE9C8C838B7FBE55A53CB5336239200A87727D8A92B1E441B181 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_0880.PNG
+- IMG_0886.PNG | 289F1892FEA7AFF41137A5D9C6DD9E08FE0B81BA991C6618D4B0B3E3CDBDBE76 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_0886.PNG
+- IMG_0887.PNG | F448636B6B15269E1DE4DA6DD7FAB62DCC4B48E88E7CDBD52DA056A3DA85ECBC | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_0887.PNG
+- IMG_0888.PNG | E5D4344C9AFE218BAC61AE5D05FB73B84643551BF9D13C42689F408D1283A326 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_0888.PNG
+- IMG_0889.PNG | 5F8F7C6555D4A95459EF53FC50BA65C5D51DD7EF4C3A529C3604F9275EE44431 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_0889.PNG
+- IMG_0890.PNG | 684F8DA4C30BF8DC979ACFF67C595B7A46FA56C95788BBC6DC15DE85563E15DC | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_0890.PNG
+- IMG_1747.PNG | 04A0B5C5DBF5F0778CEEC985148B15ABF0BA3E3CA9E23A34B139ACE0B72E6C6E | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_1747.PNG
+- IMG_1748.PNG | 364C187158592CE6FE35FB24AA347BE457C2CF2BF0E2DDD6C73C17C8E1E99D48 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_1748.PNG
+- IMG_1764.PNG | 65F29C892809A228702282FB0623732E857425C30C53BDFA84F34478DEF34376 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_1764.PNG
+- IMG_1765.PNG | EEEC3084D2ABB2273A1BB5CFFE1C541CAB62E876B963444FF3B03E8339DDA730 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_1765.PNG
+- IMG_1766.PNG | B7CCD506BFA9D712D73C1F88A22465C078765E0FE3E6B255BE622027578D8DF0 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_1766.PNG
+- IMG_1768.PNG | BB76B433A1D23C46E215A39844F1877D5EF9A84B75B4F1D52A279D5F8D0D00BD | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_1768.PNG
+- IMG_1769.PNG | DABA67E19409E01463F5AD8B09910BCC9C4B6D57B1781BC2D8199CDA63DC7377 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_1769.PNG
+- IMG_1770.PNG | 92C81899793395C1A6E75FF2729BAAFC63E061C5404FA0B3006904331BBA9F8C | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_1770.PNG
+- IMG_1771.PNG | CA18F14AA0038988304FEA2B3E53C0AD231A86B495862576472B0C309EEC0551 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_1771.PNG
+- IMG_1772.PNG | 51F3BDACA42BDF5340CC2B8643903FB5E960B0100E7CBC55F565ED413C37CBDA | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_1772.PNG
+- IMG_1773.PNG | 9E54AD715D9277FEF7154B13A96AEE0920CE88A07890CDF6B8BC019A21AEBF7C | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_1773.PNG
+- IMG_1774.PNG | 697AD4FBD212DD5D98353CA1FAFB11F9DDED01BC824BFA191A1E38BBF3C3FB81 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_1774.PNG
+- IMG_1775.PNG | 6B6B925196D820930E97615A23355B2E25D4AD272206E502A96675C6D5AF1418 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_1775.PNG
+- IMG_1776.PNG | 1ED8BFD9F0E522E35049715879747A525408DD02DADF530CDF4C622CD6406CCE | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_1776.PNG
+- IMG_1777.PNG | 35B3A9A5307A73C7B888EAC55373722E8186FC2AAB65B4BFB0209D7B3C0FB33A | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_1777.PNG
+- IMG_1790.PNG | 746F620BA0C130DBDB019508AADE3E1A5B07AE689FD2089DC172B6EB320633CF | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_1790.PNG
+- IMG_1791.PNG | 87E70F221274C7F7ED6FD2C38D8D2AB17CBB45760D445D55F7446E41CC11E15D | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_1791.PNG
+- IMG_1792.PNG | F7E74A70A7DC56FC630613E909F6D9B5DBBED0004B4E040140FDD5188A5F5FC4 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_1792.PNG
+- IMG_1793.PNG | BB5A4F76F4370A1DD936587032A157B9C71444923053D902139643D6993A32BD | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_1793.PNG
+- IMG_1794.PNG | DDB244772087449DC333F926F548A63AB61303A39E0DC65A6A8D0EBC6737520D | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_1794.PNG
+- IMG_1795.PNG | C6C1730112D0E3F7D4B0C84831718F1CE0057A2E732CE49F41DAEAE82695BB6E | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_1795.PNG
+- IMG_1800.PNG | 610F50165D1AF9A03AC024FC9D76D9B5B9353CCB805D70867056C3D0D62E55A1 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_1800.PNG
+- IMG_1801.PNG | B1426847671C3AFB16C506EF39E3E0B5A90E6F52EB5FA273F5D61A336629E1F5 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_1801.PNG
+- IMG_1802.PNG | EF6448A6D004785A8DF0BAEDB257AC4225464FB4448C11B592D6392571708BD1 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_1802.PNG
+- IMG_1803.PNG | 2D6C0DEBF2B01DDB7CDB66EB85934F1E546E9A0F5D7498DA993E6FFD1728FA73 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_1803.PNG
+- IMG_1804.PNG | A8E474C40215343470D38FC8C9EECB586742514D04148277D57FE95B7B46E97E | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_1804.PNG
+- IMG_1806.PNG | C9752560AC0BB5CE2C146D7013C549A02498EDA1E6FA471B4C47F1B7F0325AA3 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_1806.PNG
+- IMG_1807.PNG | D3053F2C7BF5E777F930B873848E52C8A7DB1204360091DCE1AC2F076F381475 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_1807.PNG
+- IMG_1808.PNG | 406906E3D2F26A03427D92EAB6D62E8E6A3C0C55DB38234576423CDEFA02427F | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_1808.PNG
+- IMG_1809.PNG | 6AAE27EAC05CD656928DB2A3DF712EA62B37F60B53B6444F9BEC232501B7162A | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_1809.PNG
+- IMG_1810.PNG | 019795BAE17EACB2E779B4AB50D3C6DE4D593375A8567EFBC3D6CC7CFCB36D9F | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_1810.PNG
+- IMG_1811.PNG | 6C05EDA68D80ACB7F71511C46B18758585CF1646A16E970F82ACFE41C3AF639D | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_1811.PNG
+- IMG_1812.PNG | 8DDA9A56FA44BB3378A81CC17018C6EF374FAB346CADF0845778F13EEB7A78A7 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_1812.PNG
+- IMG_1813.PNG | A306025FDF8548816B815AD7E051F9FFAB5C95287975C833DBA45EA537626F11 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_1813.PNG
+- IMG_1872.PNG | 901B8BF26B8828DBF127B8477DCDC2CD8A2FE076F146A1A6F901B79A3472D07A | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_1872.PNG
+- IMG_1873.PNG | 377900C3099FB8DBEC9C787C6FB9F949DA33E07854DB389A4D66B4252BAD6920 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_1873.PNG
+- IMG_1874.PNG | BC98F3FA4741C550BA6A2350C7B7E49241DCC8FFDE18DD9362EE275A8D224A97 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_1874.PNG
+- IMG_1876.PNG | A9D34FF39728F81389812657358880F95596E629CFAEF34EA530C9DE6769E67F | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_1876.PNG
+- IMG_1877.PNG | DB2B7D141BDDE3D99F15D06DFEDE87A4508F6E4E474A84392953BC6583A3293B | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_1877.PNG
+- IMG_1878.PNG | 7D19D729E46D6570B05DB30DDEDBC00626310E418910AAFFC3224FDC3BECDE65 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_1878.PNG
+- IMG_2035.PNG | 86A6C01774899DCC3879855F34873B69D18751E4DAB76565D8539826073FEFA1 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_2035.PNG
+- IMG_2036.PNG | A157054186D1623A542C5B293281AA157523846C73E51276C6C8C6AD5228F127 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_2036.PNG
+- IMG_2037.PNG | 743014B55EC4DAC49FFD35D385A58C2F2E9A2FAA086BBFC8F6FD45CBAEAA3A36 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_2037.PNG
+- IMG_2038.PNG | D069ACC0604CE441DD886F0944E253AB75BE7A87C4993F5659000A72B7EB7FF1 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_2038.PNG
+- IMG_2039.PNG | A8D0A604F5F147C05254AABE4CD7AD8F0AF2DBDBC1D4649407D40007C0CB5A0D | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_2039.PNG
+- IMG_2040.PNG | 27D113AA287D67D39B474AAB870329C68D20374B1E093405F5BE20ECDE701D5F | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_2040.PNG
+- IMG_2041.PNG | A45F6E2C2D86C649E5F6A071579E86999F59FFB2CB6F57356E8BB2A19E0E82D8 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_2041.PNG
+- IMG_2042.PNG | 7781BFE10E6ED4A43BD44C478F9115EE360739330C23E8A945366B8981DEFA78 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_2042.PNG
+- IMG_2043.PNG | 07F09CBC536D87B2BEE8FE0B427FA1442A2021AB65367D0DC65A4715C8C633C4 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_2043.PNG
+- IMG_2044.PNG | 8D221DA56805F4C647AB5C2891E8916B05E0986B4164BD97DB5545ED1BDE34AE | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_2044.PNG
+- IMG_2046.PNG | 26C328D9571088ED5EF271EC63B4C2BE9993B797405994494B1E6380D9E2EB78 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_2046.PNG
+- IMG_2048.PNG | E2D604FA1D9B6FD9C8805F1316EEBACA13293FE81D8D7ACE38B44C6553D8AF84 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_2048.PNG
+- IMG_2500.PNG | BD6B3B934B03E62B562BC1628C147EC0DA56A8D60B6A69834888508376337105 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_2500.PNG
+- IMG_2501.PNG | 696E8807252A08DB79010160332E417AA89FED12A9A25EEAE6D8DDF265F48108 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_2501.PNG
+- IMG_2502.PNG | A1D22B4A436A03E80D0A50E9A4392A1A571B1435BBE27359AE3E1D3673AE26BF | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_2502.PNG
+- IMG_2503.PNG | B4BA57A43DBA2E5BE31FD69C77B419CA10AFFE54ABDD317160668915A0143ED6 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_2503.PNG
+- IMG_2504.PNG | 09F6201BC56331C3D44DC5849214CE4902C39FD7F89A175C355C9E527B86880B | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_2504.PNG
+- IMG_2505.PNG | 05EE47BF4495BB296A3FEEE6AB5FDBCFB352DBDC57BC1F32A5155783E1D51FA2 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_2505.PNG
+- IMG_2506.PNG | 7734E61C46400376331AA3B0EE02936F6CF4E4F2724E20C1ADB75E178F1CC37D | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_2506.PNG
+- IMG_2507.PNG | 6D0217502DDAC7CC93A0842678BAE0211F9FDE38CD981725B32FE3873A21AF1B | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_2507.PNG
+- IMG_2508.PNG | B901DF8B7433FDC4BFF1A3A25B98C40D2F930D905EBD56CE65809057C0179E67 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_2508.PNG
+- IMG_2509.PNG | 948AEB6FCD95BAE31DADB701EBB486FB0C2E024E813FC14F705F439D681BE563 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_2509.PNG
+- IMG_2510.PNG | 1B15ED8E8A00D6172AE8AF65F57DCC4FF6CD4EFAA32BA5DD324C25CE48C6895A | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_2510.PNG
+- IMG_2511.PNG | 66BC3DB4F23EE778C4F6D9371FF19A15F8F382F3C1814E88F2E2C562733BDF97 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_2511.PNG
+- IMG_2512.PNG | 39FBF25677A5ACE356018920D733A26E8427CFD7CA06C9CF976BD710AF1D34FD | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_2512.PNG
+- IMG_2513.PNG | 24DA6E5F81FE987A3FA9690BE147B665CDED70B199BBF9C36416DD98312D540F | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_2513.PNG
+- IMG_3289.PNG | 72DDBEF3B9634A2FF3D8D70F490BF299D0046986ECD6DDBB5FD2F9679BB3AE21 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_3289.PNG
+- IMG_3291.PNG | F2366DA10D32E54F46B647D9B168CA4B87B7B71214947AAA56C60FC4D5573A7F | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_3291.PNG
+- IMG_3296.PNG | 017FBB23F6831384DAA9AB40474CEFBFE4C5B7EE93A449956426D4C77D61426E | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_3296.PNG
+- IMG_3480.PNG | 799FBBE550CC93EF08B8878AAF050AD766E3DCCA0FB8D8DD8CC38F39E7950DDA | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_3480.PNG
+- IMG_3485.PNG | 3B788F6B1B3D5121531AB8430B6DAA810438ECE66F74A186CDBC05C944AADB7F | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_3485.PNG
+- IMG_3540.PNG | 39A6015294609BB514284D97AF7D8B9FD75C56ECD362BB670AB47ED4B01FDCD6 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_3540.PNG
+- IMG_3666.PNG | B4EBC1948F8325A1527C7090E9F46ABDBC26F7CEEAAC5704C04EE0AE1BC1E249 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_3666.PNG
+- IMG_4359.PNG | 23BD01C00131F42960CD0C6794EF93E25EE8827131A6E4B2562E6B552E241D83 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4359.PNG
+- IMG_4360.PNG | 253C003FD1CBD2CFE8A50E190B70E3F7142D59F9362701AC182820413062ADCA | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4360.PNG
+- IMG_4380.PNG | 883E125547480C8A3079E4B7E9B42E7CAB9F67EBE61821CE9AA78EA995D1B237 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4380.PNG
+- IMG_4381.PNG | 958B8089585E562966F7442C0B9247B39C21D9C107EB54EBEFE8163DB7C8A331 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4381.PNG
+- IMG_4542.PNG | FC046D28249154428F48FBC3F0190980C9B15E2BF30260CAFDD4D08277F46AA1 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4542.PNG
+- IMG_4543.PNG | 0A0ECB5556D47245397340991DC7E20FBFB73D27DFEC3071B4B63FA21938D886 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4543.PNG
+- IMG_4544.PNG | 7B0468B7352049054304C969EE7574B6F88EB8EC731BD3EEFBA71A439B517610 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4544.PNG
+- IMG_4545.PNG | B6D47B101EDADFCE744C71585653A94B440CDF8F47200D59F19C91836DA86E46 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4545.PNG
+- IMG_4547.PNG | 885C7C6602C04720166102C9D12224A9E25DAF5F787430D64B46EAB8878EDAB7 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4547.PNG
+- IMG_4549.PNG | 24864F122321E1EA549A92C941AAC9B2E1E00DAB9F1BE8BA1A0626EBAC50045F | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4549.PNG
+- IMG_4550.PNG | 535397C67384F75527CC1D23BA17EF748A69500FFC55D72FDFBCB85B30F745D0 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4550.PNG
+- IMG_4551.PNG | F89A5C849D738DFB11E77C9142DEF36C9D9F68AC40B9384F4B03E6751DD313BD | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4551.PNG
+- IMG_4552.PNG | 50B493F8FEE1010A3A4B78EA62D460589D41398B2AE1EC0550F2D1179B288E48 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4552.PNG
+- IMG_4553.PNG | 7357F6C587286D501F3A89858B1DA6F88C9F236B3B2CDC26E98FEBF99A2D9B1C | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4553.PNG
+- IMG_4554.PNG | 0ABAF8082027FF3F8EEBB4604C62835A5C648E55EB0A1B28707F5C27A8CEEE1E | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4554.PNG
+- IMG_4555.PNG | 43096C55E37FAB2FA44CB1ACA44B7F649EAD1B66FBD57424FBAE94F08513F90E | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4555.PNG
+- IMG_4556.PNG | 92EA9C2999137086E38FF413760CC1D16E0C683934001620C4BBB9E55EF62D97 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4556.PNG
+- IMG_4557.PNG | 58A1CCE6F4CEFEDFD1617B0253702EE86FDC0B3DA4FFC0FBEAFF10012CCC5B7E | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4557.PNG
+- IMG_4740.PNG | 843A9EA51CFD35475E2727BF1EE9B423554041CD55B217831483C3C23837A9F4 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4740.PNG
+- IMG_4741.PNG | 5D0AEF7C17A1719208562FA86B4F9394A5BF9A20A598FBF10262786CE9349FC8 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4741.PNG
+- IMG_4742.PNG | A4BAAA4F14F9ADBAADA73B3EBF60696DABC4B577FEC8F092261A796F9B4985E8 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4742.PNG
+- IMG_4743.PNG | BF9DE19FE5F7651E1348A48411D01B40B2B450332C8C1002C19BB829F1CC8547 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4743.PNG
+- IMG_4761.PNG | E85FD14FD5DAA78BB5D1C7F8F6815532D80275F58B95C46F87C9873AE1013A17 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4761.PNG
+- IMG_4809.PNG | 0C7F4C3FD823FD0BFAFFAF3C6FD38B5A323D384F3D75ACB45F22B6D747DC6A04 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4809.PNG
+- IMG_4810.PNG | CAC896E1ECABBA2271DB48EAAA2A0CA382300629B36A64BB36A6C24AC78DFDDF | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4810.PNG
+- IMG_4811.PNG | 94FA2FA8864A7F0BDF093F82D7C6D45F9A86ADFB5877A58C4A5FDDDCD5DC3F04 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4811.PNG
+- IMG_4861.PNG | E207196C1FF84D44F9D6401DAAC156ED76E609F3969ADEF86317905CE8693E8A | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4861.PNG
+- IMG_4870.PNG | 37FA5303B4F75274BC1E3ECE0127D994E09E2F8E7176AEB95AB326207C44802E | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4870.PNG
+- IMG_4871.PNG | FF6D0769D89D4A6D72D54793EC55F7D1DD6B2924CF1E8881A40FD03E9CC0A7E2 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4871.PNG
+- IMG_4874.PNG | 21F7CEA23AADA114321AB214EA1346912B420CD3D479831517963EC6EF563543 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4874.PNG
+- IMG_4875.PNG | 3FE4CDEDB1DFE3556D6089BC5B9B45727A8F613DC82CC71128E685CABF98DD3B | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4875.PNG
+- IMG_4926.PNG | 6E970850816CE94BE4017179A4FC934B416C08DC32F7B461C118BF5ACF3BE65A | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4926.PNG
+- IMG_4927.PNG | B47ECFE7EC26035D146D9DBE8D199A81FCE602325CF2B9F99CE91AD6742FAB05 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4927.PNG
+- IMG_4928.PNG | B54C4AF64F93C9FE679492EE5AD403632CB98FD42E07761F7A9340A559AA2ABD | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4928.PNG
+- IMG_4929.PNG | 1CC044BCB3B4C31DF74CF765A8CB4457E88CA6CBE5A79832A1B8769468B8C3B9 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4929.PNG
+- IMG_4930.PNG | 44CF1E59B2FFA4F6671DF9F4ED81486429EA45D208E8F583890EC7F753B73554 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4930.PNG
+- IMG_4931.PNG | 1269D852A73BF3CC8946F83B6F12B7B1CEC7486EA773EE89D2FB56B55AF3CB62 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4931.PNG
+- IMG_4932.PNG | 2464CB42D01788B12BC2CB767F6F6E10B079023195C343693374B350E838AD99 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4932.PNG
+- IMG_4933.PNG | 28E3FFF217D1C7BDCAECC7FBC18DA490FAB106F798411764B7B8C76C5E6E8D16 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4933.PNG
+- IMG_4934.PNG | DF825C55A63B617E00B2EA81FD595B21BD0FADE27DB17B26CACA09DBDFE97925 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4934.PNG
+- IMG_4935.PNG | F5EDD83FAF4E41A143958953ECDF71C11E4439983DC9E227F0931CCEEEB85109 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4935.PNG
+- IMG_4936.PNG | 3463883A206686F698E5E553277E4AF82F54D600DF64B49EF8BAE94D21CC2FA3 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4936.PNG
+- IMG_4937.PNG | 35FBE2355C9558695C744604F02EAA8D4889B9034788CE4862147EF4E6138C88 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4937.PNG
+- IMG_4938.PNG | 8F71934F0D2032EA8B1C1D39C6156A9A60BE7BDD585AF2B8019407F5CE388E16 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4938.PNG
+- IMG_4939.PNG | D353314A6D1940493718CD6AC482D330484D35F1189F36D1CC20B89B15CE5EB3 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4939.PNG
+- IMG_4940.PNG | 80C3DD2BD5D56140583D009BB22323F41B992816D2995421FAA898DB379FC5C5 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4940.PNG
+- IMG_4941.PNG | 2B7F8ED9C568E87DB510D4FB5FFCC78EA3A8BFE42FE00C30A8F8C63EEE5D5183 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4941.PNG
+- IMG_4942.PNG | 3462AD9B75FCCC06E91EA5E7D1A80CB2B24D5A500953B00DBD02084A6D43D456 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4942.PNG
+- IMG_4943.PNG | 50D52F3131F08F17C736580EE0D4E741794C555CDCD5141623D0A7A3241496A0 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4943.PNG
+- IMG_4944.PNG | 0D6DECF9BD1513E6A98C3CD9622AA9838D6AA1639C7947777746D770C92B1C6E | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4944.PNG
+- IMG_4945.PNG | CC7B771977A6512DEFE725A8ECC32FE69B5C8140638FBD3E22A85E615C75A721 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4945.PNG
+- IMG_4946.PNG | 86125C2B519029430FC0E9E01018FD212AE1A0D326DBC980106756ACFD1B60BB | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4946.PNG
+- IMG_4947.PNG | 8F99BCC370B4DE6A92695D0E12B3BB0DFD3453A554E0C6EFFDC77BB57B123E1F | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4947.PNG
+- IMG_4948.PNG | 1172465009798D8A897DACB13AC7908AB0CAD39CA63321EA62609C102DEBE8BF | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4948.PNG
+- IMG_4949.PNG | 9C260257495472EA1BB7E3202B0945844B8D1D2C5D82867C80FADD5399A7704A | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4949.PNG
+- IMG_4950.PNG | C0755113C74ACC9FEC1CD5A8E029D06A700CA7F3875911A97CE0619E6E863853 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4950.PNG
+- IMG_4951.PNG | 7AB3FD84AE781480C0CC8459BA3D57A6FC742DA08088FEFEDF4C340EDF2993D2 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4951.PNG
+- IMG_4952.PNG | 91CD0587441825E72778AE96A7DFCBC586595B6A41003CC215CD82B552BED3B4 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4952.PNG
+- IMG_4953.PNG | 65050C3F49DF504D2535B90FFDB7989EA7FD23DDB7803B79D7D83F7F2807B92C | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4953.PNG
+- IMG_4954.PNG | 12F8C6332683CED401594600C92D13078E2D0479C0F2B3A17961862AD6208A55 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4954.PNG
+- IMG_4955.PNG | 4B639A4C32450001F604F2B219CE5796D913346D70AFB44DB46C917C6AB3E9E0 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4955.PNG
+- IMG_4956.PNG | 9E0A41579EF794E825A7BDA0F6F6E9BFFD436D069815681340E7F69C1455EC66 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4956.PNG
+- IMG_4957.PNG | 6469B909EBF401A465CDF174E319E83676E867FFFCB3357A4DF47830719382B0 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4957.PNG
+- IMG_4958.PNG | CA509E367A56D1A07E93303E575B59780994BE83C47AE76087F3A84F984EDD91 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4958.PNG
+- IMG_4959.PNG | AAC440F33CCF96CB691A349689E792D64C7888D49E63F6513F49667DB6BF5532 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4959.PNG
+- IMG_4960.PNG | 342041B20BBAFC4891C1B6AAE1C389C7387C61A34389B8F43E88476C52F2AC44 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4960.PNG
+- IMG_4961.PNG | 9AD5900658045FC8F8710BBA9D1CA198474C49464996D3AFAE9E97A43ACD3333 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4961.PNG
+- IMG_4962.PNG | E55BADE890ABE394A87D70840CAC82EA930208A0A9A4647CE4656FA0D66C3DDA | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4962.PNG
+- IMG_4963.PNG | 4EE590CDF1F75C82DAD13F24C5C21E842866B3BA38F0EE6E3482A93ED5873FF6 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4963.PNG
+- IMG_4963(1).PNG | 2C22A9686A93AAF0DF3B50A5EAB9D88B8932B2AD9874B6CD60A1597084F4270E | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4963(1).PNG
+- IMG_4964.PNG | FFE596EB5CB2BBC430E580B814EC89C5BA4F3E5713126506EAB3764D7CC66D22 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4964.PNG
+- IMG_4964(1).PNG | 22C91B830E7A6EDEA261AC863803672D8B20BF41B5FF2F27683ADE3A669DBF69 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4964(1).PNG
+- IMG_4965.PNG | 20A8C0705359C8EC76D7986A06F97CF535DA28974BFA05B8370F4B4A9742DC77 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4965.PNG
+- IMG_4965(1).PNG | 73F351E57D252AB584E9C40B2599C138CBDA76313CAE686F27C5CCBA62C63122 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4965(1).PNG
+- IMG_4966.PNG | 0C1D2E4B5B18C93A6D7C9FA253CE986FD2A09B776D27FBFC2058B71818FD9ED8 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4966.PNG
+- IMG_4966(1).PNG | A565C7D9ED2CB67F7A8086228B6AA4523A3E78D3C52177241787FA6136175025 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4966(1).PNG
+- IMG_4967.PNG | 51327935B0A87346E40063C2E5E71271C9AB75FB40A09460FD21F19A1778D82A | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4967.PNG
+- IMG_4967(1).PNG | D92D2331AD75303F669C3840E5D060E9F9C1E85941ECB3ADA0367FF4B497E7CB | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_4967(1).PNG
+- IMG_5154.PNG | 7E69149139169FC57581DC63D04291322655BEFDFD4544162CFA9CA3550230F8 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5154.PNG
+- IMG_5176.PNG | 38080F9C050C54F045C6820E6A22F91ADE29D6075B81AFE23FB05BA5D66B1FB1 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5176.PNG
+- IMG_5177.PNG | 8D88B70F7C37380458F94E27DB9E7CFF8A7C682845B84CA2E625692E71E06894 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5177.PNG
+- IMG_5178.PNG | 5F0C3B164E468B626F35203447CE3D26BE6BCD7BA3172D7B7FA5C45692E02B2F | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5178.PNG
+- IMG_5179.PNG | 925A8F2C59CAE9746050D71C3ED916D88D3CEAF63CA8134F48F9AD28C1436861 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5179.PNG
+- IMG_5180.PNG | 9D3B61F13153B254F7504496899C0EDBACC2380CEED6C709ECC5A1FEB01C3AAD | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5180.PNG
+- IMG_5181.PNG | 945B2E1DAE0DB93116D560FC1F08EBF35DB84A9A6A5248C6CD29A26466792812 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5181.PNG
+- IMG_5182.PNG | 4F8EBA2A525BCF73237B4C8F23F3B2CD1FA6701322A7EF3FD334B7538807A9B8 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5182.PNG
+- IMG_5185.PNG | 6D1C39772C4BAB75F72733F1FA214E28FB932D44D8370EAC544E80D362F7924A | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5185.PNG
+- IMG_5199.PNG | 003E5180DEC5C9F5EA4D3F67E53122D2EFC1AE72B3555492D5EAF57B418EA211 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5199.PNG
+- IMG_5200.PNG | 9B86C26A87CA3A094FE3B31FDB06489BA74BC9F9103842D459ECC856881EBEE5 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5200.PNG
+- IMG_5201.PNG | 4460D1676C22074371293408FAF6CA85E462829253845D716C85DDC0CD4C4911 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5201.PNG
+- IMG_5202.PNG | 7CB0741835958FD035E1749E43C53BAE6A6D49E3CBF4744793D185971955EF52 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5202.PNG
+- IMG_5203.PNG | 271626E8974B36DD7E29F1BCAC51409F891810547B245E7C427DD4B27C44EAAA | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5203.PNG
+- IMG_5204.PNG | B50A4B2E2DD4BA55A295713F37F36CF8FB13D3E5852FE637CF1D34E109F1DF5B | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5204.PNG
+- IMG_5205.PNG | 6AC8751832712865A3065B0E31BA3F14CF564AB41E1576361F19B4FBC0685839 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5205.PNG
+- IMG_5206.PNG | D41C287FCDE89DB39F343920B879D8B136D45AD71F67ABBFBC1CDFAE06607FDF | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5206.PNG
+- IMG_5211.PNG | 7385B71840229DA07B1EAE899D52A84481FAD17BE43C8B404A5D803822EF4FF1 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5211.PNG
+- IMG_5212.PNG | 8D9ABBFFC6C7896FB969C0E259AF054407227169CB4B1EB344C4BF2AD8D2DEBB | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5212.PNG
+- IMG_5213.PNG | 6482DD10AB3E39A8102E0EC7AE6AD038691472D4F7127DC8AAA87C8E159D4066 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5213.PNG
+- IMG_5214.PNG | 09331BB5D8B03666D6BCA3025515172C169295DBF1237D3E3031E547DADD1232 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5214.PNG
+- IMG_5215.PNG | 3FE977B1BF8864CE9C8FEA57BEC71B0AC2D1D1EF9EED9BE5B97C53DB27E1AD0E | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5215.PNG
+- IMG_5216.PNG | 6B0EBA18CD87E4455E7E6B20A782A4DDC28F2190959CC764FF39400A5F016A8D | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5216.PNG
+- IMG_5217.PNG | 87AC021AA876CFA9F22E1DE2F14C3DAEFA0940794BF189123F134D3C4184A200 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5217.PNG
+- IMG_5219.PNG | 5C0E334590958028B48B57C5F424C8776A3EED4F55703FF24E45F172ECF47349 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5219.PNG
+- IMG_5220.PNG | CD758C5ACBCD63F664D4AC564C5E41B25DCFBE4599BCD9279AE7EFD21A20A7CA | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5220.PNG
+- IMG_5221.PNG | BF3D00B8049815B9A9521BB32BA9FDD4F774B57E71CC86E5846CEFFE5033B54C | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5221.PNG
+- IMG_5222.PNG | 6DA6CEFEC950556A881E74766D24A7EB14567CD27FF7A500953499E6AC1713C0 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5222.PNG
+- IMG_5237.PNG | BB46602C26DA7F77573FA6BB0AAF97727DB2E74E26C5A5C7E4C1F74587E4D9EE | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5237.PNG
+- IMG_5238.PNG | ED862D29F4995A520830602FB9DEF112EE055B3855E3235071EA33B5DE8EF0CD | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5238.PNG
+- IMG_5258.PNG | C994D8AB5C63A1E75A113B98E97EAC4CEAA95EFEA112CD3A9C4043349543E74B | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5258.PNG
+- IMG_5259.PNG | D30FA94E256C20D76453D45E6F4E0B34C7D8414243609439F0FB80C1108B93B9 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5259.PNG
+- IMG_5260.PNG | 4604AFAA1FE68FBA007235D8FB489596CC5E6F9EA86AE42F0351C39E7F7A66FC | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5260.PNG
+- IMG_5261.PNG | 7BCE2E5B37BFC8D3E2602E107316EF8BBD2951F174BDE7DDDD828E835CC34B37 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5261.PNG
+- IMG_5262.PNG | 674B82E54126C515023B3BE2AA76C0CDC87FC17B1C125BDA6E9E9DF3733EC910 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5262.PNG
+- IMG_5266.PNG | E182C44C71CC1033F26B34E9EA9949A771389B33253C46A2B25C75541885AB9C | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5266.PNG
+- IMG_5300.PNG | 15427A82BDA44740EF8101F88FFD611ED069C4DCCECEEFDFD4240C7C9905C94D | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5300.PNG
+- IMG_5342.PNG | 70D79D43CC06679FF76278635F01EF69E295B6BFA85EFA81D91C9D6BF53B2F79 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5342.PNG
+- IMG_5343.PNG | 4FDD3957E67E3D1CACF1888CAB5E6E0D28275AB21C9D2225A1171D32083917D0 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5343.PNG
+- IMG_5344.PNG | 587B76BAC4F0A8FB2C2FBAFD1F4590CFF2513970DCD8FD28CDFC47549D8FA03C | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5344.PNG
+- IMG_5365.PNG | D6A5EF3DB161355E26AB06BE549E7D008BBA01CE3EC5E3F8A2141F35C7F8802F | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5365.PNG
+- IMG_5366.PNG | E65AA1786598073DF430D481361194D4EF3161CBD62F1EB1112713F26AA97BE7 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5366.PNG
+- IMG_5367.PNG | B1D7C7B64137C1E745E3CA0C4970B4E0F75426D43884361BCF31BAF3118C4940 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5367.PNG
+- IMG_5368.PNG | 9BA6A989E9CF42BC93C8E8648FC9AF68FB3A622E149AAEA5AC33B5C62FF84DCE | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5368.PNG
+- IMG_5369.PNG | 8D3944593E007D5D96B11476D0786D1A6710C04D03D014C6124D17768EC19433 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5369.PNG
+- IMG_5896.PNG | 58DF5EB5DD297C069FE992C5D2307AE6D9DE97D78A612CD222A94D462848194C | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5896.PNG
+- IMG_5897.PNG | D31935987327F60BF709E8F34CF69FD848B7CFE07C2F8FF680CD087D08B02F8C | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5897.PNG
+- IMG_5898.PNG | 7343C716771499FE366086827BE405893E614F1A69045678E3EEEEE8DF8130BA | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5898.PNG
+- IMG_5900.PNG | B0906833E9EBFB13EB829F5A26BF5EABFEFB741108A2080C27CBAD3CF12F855B | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5900.PNG
+- IMG_5902.PNG | FC1C5020906219C7EC79C807AA047DE2BC0278E2AC80CAAA521C6656CBAD6F6B | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5902.PNG
+- IMG_5903.PNG | A2FDC214AA8736A654ED6B5F2B576BBE7C7BA43D4667AD4FF3DAAFF4AEB7B554 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5903.PNG
+- IMG_5904.PNG | C20801A5E8B4A948F1DDDC192D1FD08E9CE9B632A5CF6A247F2876B753C9CBCB | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5904.PNG
+- IMG_5905.PNG | 74F6442BFF3F1F895222A4DF11CC8416CE305377A065092CC2520A9E229756A0 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5905.PNG
+- IMG_5906.PNG | 448B135E13BCAE65FD78499106AD12BDEB67CB7A3A01250A226D54EA3A05FBFE | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5906.PNG
+- IMG_5907.PNG | C660B609383DF913F0534376EED9906A0C0A9DDF4C8CECDDA8ECF2A8DAE178E2 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5907.PNG
+- IMG_5908.PNG | B175B94651D4938038474FAD454A607DDE7C54F6606809313C8035B3F8456204 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5908.PNG
+- IMG_5909.PNG | 87D8BCF8D6D48FD834FB973D851B9E30C5A4EE5EE64A3DCEC05316FE895D63BC | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5909.PNG
+- IMG_5910.PNG | 7899F86D562D71E1C10A5FEC965143898524F3247681E779196A6338343BD162 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5910.PNG
+- IMG_5911.PNG | 2B79935A3F8E4EA545EE8A0751774A7E7E72F9BF08CBD8316402282FE2940BD8 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5911.PNG
+- IMG_5912.PNG | C72CF94CBB3A1006634AC3A6ABEBF1913686268514E6B1863EC57B76469AD7D9 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5912.PNG
+- IMG_5943.JPG | 3E45D70B537C3B754A0966918FB9A1754D5F9C90B51B0326C4C3F8161D81F628 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5943.JPG
+- IMG_5953.PNG | 93F7B1D3C7AD333552461C95251BBB65822A5D0BF4FD8C558107013E3367B902 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5953.PNG
+- IMG_5954.PNG | B9B5B6EC595CF7CF7FAE9A4C74A4C1BED4E64BC43DB8F279FCEE098CCE74D35E | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5954.PNG
+- IMG_5955.PNG | 5A6341A76CB9D1ED13BAB40A348AAC41D6280E9EE3D5E6094570DD1B94EB3479 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5955.PNG
+- IMG_5956.PNG | 707BEF3C07255C9DBD8A4F401A570B1B4B6D6CC04873673041EE58BBF493694A | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_5956.PNG
+- IMG_6455.PNG | CBA1286CACB14E90C1F65E6875E5FEEF0E0BB11468FF7C2141E3DD33BDB9FD49 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6455.PNG
+- IMG_6457.PNG | 04CAB4B92872275E1B0C896FF799F26764244D82EB3CF6FB8509ACB99CBE2DC5 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6457.PNG
+- IMG_6460.PNG | B6CE504D46785D00449E2B9ADB00F9105AF4CF92EF15D1C914385F21931FE5F0 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6460.PNG
+- IMG_6556.PNG | 38C4CF5F0D86EBC0AE2AA71C1EF9864821CB0FF840306DEA35470FF24F6F45FF | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6556.PNG
+- IMG_6557.PNG | 2529D1127DA9D36B3B43C9BF997C14FB96117B87C359E45658BDD37C88328592 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6557.PNG
+- IMG_6558.PNG | 1FD65E059AC502C891996C4434F7467FE42106FCFFBB4DCA6BA1687D80479499 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6558.PNG
+- IMG_6559.PNG | 8D245F1AA3228C3117C1514774D7A8C04E2917716F2C7FA2C164472807D808B6 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6559.PNG
+- IMG_6560.PNG | DBCE368EDFB6CE0246D072949B02DC9D2DA1126E041FA61C793E409CC04E950E | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6560.PNG
+- IMG_6561.PNG | 0BD041B52333B099F53CF773E0276B10BD0C2B0F502081C021B2912EFB064063 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6561.PNG
+- IMG_6562.PNG | F674A40E76E220BA152D9D0F708D041EB40EB5D811B5CA57E08458DCCFD32E93 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6562.PNG
+- IMG_6563.PNG | 06451E09C8BF6E9FF020A09B91833F8928F102F120F5CF31B226E2875E8369F7 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6563.PNG
+- IMG_6564.PNG | 169EF8602DF5A3F8036358B21B345CE0179640CF51F27CDD675EFEB7D6F19F61 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6564.PNG
+- IMG_6565.PNG | 79D40CB7AB7FC5DB1E01BD3AE7601E3808CF997B0D63CA49592AF173B25C2CAA | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6565.PNG
+- IMG_6566.PNG | 54717C1631419B26C292DDEBA641BC2C497E1EF5691E1E6C49375B7EB767B7A9 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6566.PNG
+- IMG_6567.PNG | E85DF4E81329044F037FC95383F59AFD1B3A70E9555D5BC2EFE146B1FB9FD40B | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6567.PNG
+- IMG_6568.PNG | F3C4366280204BEB9DD46D2C2B14D0BAA3B68425364664DA2B47F21585A34854 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6568.PNG
+- IMG_6569.PNG | AFA62ECCDD486F421967132626EDA68E44F37C2179CD502F08F92E5E41CB2378 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6569.PNG
+- IMG_6570.PNG | 87437E066789FFE51121B4214193FAAA7F230699E06FD5F8F115D883B48525D0 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6570.PNG
+- IMG_6571.PNG | 26E76F24B93194A714B2D7E1C0AEE7D3F4C1F38B5DEC03456BF6A0E0A5A94E3C | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6571.PNG
+- IMG_6572.PNG | 25E3AA4D9B21F3487E4CB8412EC2457566A26533EDDC9A1E84ABA7228928015A | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6572.PNG
+- IMG_6575.PNG | DD2FA5DA80EE58B688622DE6E98590A8906A5C8FA18EA25F7A7B1439CB329E3E | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6575.PNG
+- IMG_6576.PNG | 8A099239CC0DF139328DB2DE1B5E55DD5CF5DE893E5F4283894B0A01A0E871DE | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6576.PNG
+- IMG_6577.PNG | 3A594DDCB7FEF1214C87D427D561E713BC5440414AEA6A4F273059FFE9EC7FEE | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6577.PNG
+- IMG_6578.PNG | 9802072FC6D3665109747A7A436E318581AA0208A5569BF63DA9012E4C626661 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6578.PNG
+- IMG_6579.PNG | 947AFC0BFCBE7BB82AAAC701E0FD510A0F3B31D23C698F89C0151D8EE58DBF50 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6579.PNG
+- IMG_6580.PNG | BD2C308737DAA94CC91DC2AD516E7C282A0A6424D85E8978F0E34A83DC5A801F | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6580.PNG
+- IMG_6581.PNG | 326E82301F06EBE259D60B902FDE97F97C7D4E5318C30B53C3A94CC405589A51 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6581.PNG
+- IMG_6582.PNG | 1572FF1241D9D702E4E8E77E8EBA4429C542E92AFF3A29492154C93CD5DA5E0A | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6582.PNG
+- IMG_6583.PNG | A20975A0C9BB338147011A1538E8903B65F4D502E35BFD6CAD0E98E60F7666BD | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6583.PNG
+- IMG_6584.PNG | 5DA23ABC02464AB47DA254F54BCC64430BC9E77E096FDBBDFB36BE60A0FF18A2 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6584.PNG
+- IMG_6585.PNG | 043398C26754F74D94ED69E496FC0C6AB6ECF7DB443740B831501E66A567FB11 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6585.PNG
+- IMG_6586.PNG | 9897B3320452EB817C588AE93C0C347A8CD44425D7D22084B51F955AB8885F85 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6586.PNG
+- IMG_6587.PNG | 7B0373269F97AB52CD893EBA25BCA851C807497990C8BEF27312404074BA2A5D | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6587.PNG
+- IMG_6589.PNG | 59C0FF98B8F67BA9525783D6ECE36666AF55510DBCCBBBCFC90290B7CB6D0A30 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6589.PNG
+- IMG_6590.PNG | 34732C12D03030CB167DCE6CE6D780263F85606EF2C7D8A451990C18E57D4D09 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6590.PNG
+- IMG_6591.PNG | 7BBCF43CA42AF19EAAE283882EA71140E3DB095BE55887E778674F89E4153753 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6591.PNG
+- IMG_6592.PNG | 1CA9A7D861CDED92ACF636CEE9F802B0D5BCE4A7D8C1AF0DAC006822517E6128 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6592.PNG
+- IMG_6593.PNG | 91F6ED26C64FE21AD6CEA353905D8D164519AEC0FB577DD3260B61BAADA35356 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6593.PNG
+- IMG_6594.PNG | C28508F3754B7AED02EFADADB821E5E445EE4053B290FE673DC51126B2B077C4 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6594.PNG
+- IMG_6595.PNG | B06A078EAF49DDE38846DE581A3632A0F5F8A103E51C284FF95A9DF61DF1C499 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6595.PNG
+- IMG_6596.PNG | 4B6136CCC72052C94F9691741223E8297644E365FF778FCF825BA1A25FDA5E70 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6596.PNG
+- IMG_6597.PNG | C394464D5DF74F32C0F9761B13594EB72F016ABB7E95B33D50E613D0FB5E7DC7 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6597.PNG
+- IMG_6598.PNG | 6634AB95EF7DB88B0BE3C7EDAEC763B14CF3CA7E8D13F7E01642691F3385C68A | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6598.PNG
+- IMG_6599.PNG | 4C3060DF4A442BE9D780E054955FAFC66AEEF18A0ADA568E099F44F6B52D9BB5 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6599.PNG
+- IMG_6600.PNG | B823BF971ED7C5F0BE21619F3BB7520629942F820EBD44C654DB97310E801637 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6600.PNG
+- IMG_6601.PNG | 2A53442555E94699AA09D3C1067D678748944E502BB58DD0D8AC21E5A80BA957 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6601.PNG
+- IMG_6602.PNG | 432AEA89F9D8005FFB5AE3F0D285A9F45397C9FE3C31C38CA11F53059D6B8C33 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6602.PNG
+- IMG_6603.PNG | 723845C9AE39458BFE12AAF35A2C5EF06DD96C5AE000EE43F1C93B66D7644EEA | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6603.PNG
+- IMG_6604.PNG | D34428733D567CDFE3DE38DF091A039597EEF1017F561E6A46C9E25EA4ED8C2E | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6604.PNG
+- IMG_6605.PNG | AFC3EED11A1B424C6753889F3C386B20D5E84192BD1A8A6A18E70F6A748A54E1 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6605.PNG
+- IMG_6606.PNG | 2D08083A67A774D0C055087BD0258F60331524CA8B0260E0E32A4FDC1185142F | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6606.PNG
+- IMG_6607.PNG | 709CDF6DB629CED5B99A21B596056140C544E3E7163BF25577EC326112AAA56F | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6607.PNG
+- IMG_6608.PNG | 6C4A2DF7E0BA46E63D1A4543797AACA0DEA0080B76CFA63FB791E8AE36E4C0FB | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6608.PNG
+- IMG_6609.PNG | E26202975F0264A1FD7222B744937676005379023A13C08ED7FF0364DE4B6ADA | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6609.PNG
+- IMG_6610.PNG | 0137EE062C4274C0AF5098BA368656083E714EF798B5FB2CDA394282B5DBC00A | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6610.PNG
+- IMG_6611.PNG | 4DF00868142847DCD361491351AC1CFDC830118536EA8FE974FC438D49738B4B | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6611.PNG
+- IMG_6612.PNG | 4ED78DBDF37ED3FA326CB800484E2D19F85E0E4D6C2D95E0A685D0905EE85F06 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6612.PNG
+- IMG_6613.PNG | 275879D39A90255467E78504DB5D128024C002BFC919462883552C003E5DE31D | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6613.PNG
+- IMG_6614.PNG | 4FE744D912912601F5C6B4FBE1AA3559FF7F8CD5F937C0AE1C663A17BE366A70 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6614.PNG
+- IMG_6615.PNG | 7DB4791F80453EFA51BD371966FB6D35B5F9B7F5EB405DE766071DF939F1BCB0 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6615.PNG
+- IMG_6616.PNG | 40B3E1458D3051DF52EBF00648921E38696CC521009F0DC6D203A264309AD8B1 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6616.PNG
+- IMG_6617.PNG | 383C36C3C6E6E5570649CCF05E1BC96FCAE07C3CCF57DC420CC04A0E93F3C58B | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6617.PNG
+- IMG_6966.PNG | 9E5A5AEEB930DD589CB589CE68DBBF3DE1F0E5EB56AB349C0AFAAE974E7D3E9B | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6966.PNG
+- IMG_6967.PNG | 584FED6F5EDA18B1C571A834DA220E2602AF54B778393E3E541108F3C899B301 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6967.PNG
+- IMG_6968.PNG | 41748EE91A39F53EFE44D62F6D17420126D19B41D558CBC7EA213C00CC924BFF | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6968.PNG
+- IMG_6969.PNG | F255778441480CFFB527836CB7A1FEB4C29DC5319BFFA719E09B6094B2409F70 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6969.PNG
+- IMG_6970.PNG | C23D9AD38BB364F6789776FCE3B4F31F5EFFBCD0F73FDFB6681D51989AE428AB | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6970.PNG
+- IMG_6971.PNG | 7986AFDE5BC2085D8DC55151E19D5F2E7F30FD1305B8710B1C977C1CB3A16487 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6971.PNG
+- IMG_6972.PNG | 4D61D49E66F03539906F29A7902F946F015462B327FBC7869A7938017CC305B2 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6972.PNG
+- IMG_6973.PNG | FD87BC79254043E779AA563B3C93EFEC24B3557672B06B1D386BEAD3A67316AC | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6973.PNG
+- IMG_6974.PNG | 11EA974A461664AA8A6EFC7EABBB9DA3DB34C17E623D02768483F1E5D0C10A8A | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6974.PNG
+- IMG_6975.PNG | 61DBF6E87CC9054085D6C6F90E1081F32C2A8724E8BDACBE33705E9B6EAFBF64 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6975.PNG
+- IMG_6976.PNG | 114B5D2F2228A2B21B7512FEBC2DE015422082C7AB2D02C1EAF0934106F50080 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6976.PNG
+- IMG_6977.PNG | 9EBB89F8A1EA53CCD5A936C87D79B8F02D2E16BB00CFA4563C0EA5CC7452F4AB | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6977.PNG
+- IMG_6978.PNG | 12EA25F18ED4AE7772314D844AE23D807EC7400178E3C1B44C7ED142BE62DF00 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6978.PNG
+- IMG_6979.PNG | C4A98259678671B0A323CA7B6DFCC9D9EB1795EFD1EA234DADF5765194753B0F | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6979.PNG
+- IMG_6980.PNG | 0D25A41D7FDA6BAA2A3AAE7F14344BD34C0537C9645FEEC035515D5B33160524 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6980.PNG
+- IMG_6981.PNG | 5B03B17A1AFBB31DD7992D2FA0EAF463B369DBBFA8CC51E2530C12E4F4312473 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6981.PNG
+- IMG_6982.PNG | A787D926360EAB4199E6221614C6652B682806B1FDFAF7498C15CBE8533059A0 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6982.PNG
+- IMG_6983.PNG | 179BD932C72A10B1258632F26BB1D3A5019574300074864F3CC2178858A933F4 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6983.PNG
+- IMG_6984.PNG | 15937EBC13769D467A0EFBF2B9593CAEABF4207AD2EC3029E681A4A679404D56 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6984.PNG
+- IMG_6985.PNG | 0FD3622372174CB45076E9A5CBBDDC0566799B5C64EF43D5030EED143ECA73DC | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6985.PNG
+- IMG_6986.PNG | 05600CC164093AC9F1A84D2E25E3AC7C07FA73C062422EBD3709C5189F241B33 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6986.PNG
+- IMG_6988.PNG | 263B8167B7D4B2FBA073C2464686FCE2F1366732328039F86074577F16E49A60 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6988.PNG
+- IMG_6989.PNG | B4C56A7C98D1EAC8278D43E5D54DEADCE1411214BB8F737BFEDD41A7A631299C | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6989.PNG
+- IMG_6990.PNG | F8D6F54831ADE28B1E47FEB1F492526BFF53630B9D8A45840B44202FFE0FF3C6 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6990.PNG
+- IMG_6991.PNG | 678122D8522989750493F2A1A7DEE5111A53141EC0064C845888720BA10472C3 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6991.PNG
+- IMG_6992.PNG | 90B333B17F7073297610A60C0A5ABC919663938B1D78D0B189284D9290D3A613 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6992.PNG
+- IMG_6993.PNG | 6840BCB11C6C2EC1E4C57EF37CFCE0D2D045BCB6F30AAD1340873BE86D273776 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_6993.PNG
+- IMG_7005.PNG | 92C266D50E0862E68BF68AEA5C900F9B3826CD84710D2CC4D3A0FBB5C0DD81AF | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_7005.PNG
+- IMG_7082.PNG | 18CFB7000ECD09F1B1AD45478E89D5EB3FDEF2988EC29989C275E6032E811683 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_7082.PNG
+- IMG_7083.PNG | 9774293A829894735050A49D4F19B9F5B1D8BBD65A19679B7A283FCEF2046EFA | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_7083.PNG
+- IMG_7084.PNG | 41204A913C9794F30C6427B7244DE2858CC5F0C325BFDC21E0CF89CDA804E4D8 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_7084.PNG
+- IMG_7085.PNG | AD6E8E7DDC920877342CC608DD262C8F021F0EF3AE716053BCC192FE91D1A166 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_7085.PNG
+- IMG_7086.PNG | 9692AEDF7AA42F235F5379CBEA9961E2E649F7C79C708A26DF9719E035D7625C | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_7086.PNG
+- IMG_7087.PNG | CD98FFFA996D5B0617F6335F8A11D03A13A05BAEC193460CF3080327C05D15C1 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_7087.PNG
+- IMG_7088.PNG | CB3FFB2D93B30D38BC99E97411D5ACCAB778FCE43903063293343CF5C7DB6376 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_7088.PNG
+- IMG_7089.PNG | 438A365C5AC7DE56B18CE9A7DDBAD753C5038D24C2FDBE6E2FFEEDAAF02E92CD | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_7089.PNG
+- IMG_7090.PNG | EB430AA8B554AC0A69E2C10AE5FA60EE7F5058588FAEC802A636CF43BF053026 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_7090.PNG
+- IMG_7122.PNG | 1688C45178A81FC6DC9ADD38194A03FC0486D2C31127847BCC99C97861FB0DB6 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_7122.PNG
+- IMG_7123.PNG | C5D7A1CC78C99F44E9F7DCC4DF6B93F8293C4FC576E32F8D9A95DDD5C9F860AD | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_7123.PNG
+- IMG_7124.PNG | A1BB6EA7DC924E540C2F1113CF7DE9A130E4110B1B9960F7CEAB683BB602E842 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_7124.PNG
+- IMG_7125.PNG | 4C9BD901E60C06DACD77D8FFF837779EBE7C3894A503D7E6A91716D5CC6279AD | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_7125.PNG
+- IMG_7126.PNG | 46D2A5F10EA1C7293971F4B48A64E7DC84F334B1DDD10EEDBFAC40855652DE12 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_7126.PNG
+- IMG_7184.PNG | BB9B9797D8B4CECE5444F919486AD09F50F722FC757F731AD18F40500EEF7ED9 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_7184.PNG
+- IMG_7185.PNG | C16DC5392A5756C58E5EC946CD71652AD3231D9D5B9E114812843ECDAE4E8FDF | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_7185.PNG
+- IMG_7186.PNG | D5769F5CE4EB5F0A1A4C49C0652F18D99056E1CE1D6E63E8AEBD99C313C9ED65 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_7186.PNG
+- IMG_7187.PNG | DE17C0E720330A95BFA9AD045CB3E850F4D619D20720A4A4044221A0DD0630A9 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_7187.PNG
+- IMG_7188.PNG | 1D3A605443E1123764C5E90BD9344C4A3386F09A894FB88933E0A3814099D71D | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_7188.PNG
+- IMG_7189.PNG | E851D510BF74A7371E242C9C57EA49A02724810668181F2F362747916261BF67 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_7189.PNG
+- IMG_7212.PNG | 9E3674773B27D8B8823523C508701BB087A6E1640BC146A099459FDE5B80AA71 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_7212.PNG
+- IMG_7213.PNG | 8E7CB6F85BFE3683B8CD932353ABD013AF39B917E3F183266435EB21A29AD9A7 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_7213.PNG
+- IMG_7379.PNG | 46945527B0FBC7E77A12A2952C610A6E28D1ED6E6054FE07389FEABF2E4A9070 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\IMG_7379.PNG
+- original_4656d0ca-a072-47bc-9d04-120958191382_Snapchat-1243778849.jpg | FD2524A9F8A41F6B287BF2F253B30714665E255B7CA510C5F1F2ADBA43AFF753 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\original_4656d0ca-a072-47bc-9d04-120958191382_Snapchat-1243778849.jpg
+- ScreenRecording_05-05-2025 13-13-33_1.mp4 | 823864E652A0F311757145AF5C3A32774F07270A22FA86D00E3DEEB92CE5EBF4 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\ScreenRecording_05-05-2025 13-13-33_1.mp4
+- ScreenRecording_05-21-2025 01-29-05_1.MP4 | C855E1E56D1E911473767E1AC5175209AF983106EDB099BAE2EC5C40D6768948 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-001-GooglePhotos\extracted\adri communication\ScreenRecording_05-21-2025 01-29-05_1.MP4
+- Half way into catching and addressing her texting her ex (1).m4a | 452997A6DB5FA2211CD3D68BED2BEA68C3EB3044B9DC4F859291D63547922F18 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-002-AudioConversations\Half way into catching and addressing her texting her ex (1).m4a
+- Half way into catching and addressing her texting her ex (2).m4a | 452997A6DB5FA2211CD3D68BED2BEA68C3EB3044B9DC4F859291D63547922F18 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-002-AudioConversations\Half way into catching and addressing her texting her ex (2).m4a
+- Her talking with man that’s picking her up and we are not in a relationship (1).m4a | EF969375E07181587A20894F3C07AB207ACF8A2CD1E30A2E899B81B77F75EAC3 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-002-AudioConversations\Her talking with man that’s picking her up and we are not in a relationship (1).m4a
+- You did it for your parents April 8th post lake incident relating to not needing a green card anymor (1).m4a | 0A0C7E2485111D35D15AF6D1AED2418BDF2B6437DD23FED05EB46FF676E3C1A2 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-002-AudioConversations\You did it for your parents April 8th post lake incident relating to not needing a green card anymor (1).m4a
+- Me voice journaling everything that happend post catching her texting her x. Me preparing myself (1).m4a | 6B47FD9B849708962DBEEA08DF08E6C5A75AAB35060755E17E5CA1D84B26613F | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-003-AudioJournal\Me voice journaling everything that happend post catching her texting her x. Me preparing myself (1).m4a
+- Full transcript timeline.pdf.pdf | 991CA7C027BE1C87B0406B48710D79BD8E59C418B62BA2004B64A54C81AF0FE4 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-004-TimelineDocs\Full transcript timeline.pdf.pdf
+- Transcript-template.md | D560CE2C7AD4026D5496CE4CF26EEADAE2CF6D27C1FF0A13F7441D7EDD86F967 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-004-TimelineDocs\Transcript-template.md
+- Transcript.md | 61834529A66E7577F16DA0634DA7292F78DFF0BF269B0A44392033B85740EDB1 | C:\Users\OH\Projects\marriage-fraud-report\02-evidence\raw\E-004-TimelineDocs\Transcript.md
+
