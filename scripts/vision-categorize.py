@@ -1,6 +1,7 @@
 import argparse
 import csv
 import os
+from datetime import datetime
 from pathlib import Path
 
 from PIL import Image
@@ -9,6 +10,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--images_root', default='./02-evidence/redacted/E-001-GooglePhotos-selected')
     parser.add_argument('--out_csv', default='./04-logs/vision-scores.csv')
+    parser.add_argument('--out_categories_csv', default='./04-logs/vision-categories.csv')
     parser.add_argument('--model', default='ViT-B-32')
     parser.add_argument('--pretrained', default='openai')
     args = parser.parse_args()
@@ -54,10 +56,12 @@ def main():
                 sims = (image_features @ text_features.T).squeeze(0).tolist()
             best_idx = int(max(range(len(sims)), key=lambda i: sims[i]))
             best_label = text_labels[best_idx][0]
+            date_str = datetime.fromtimestamp(img_path.stat().st_mtime).strftime('%Y-%m-%d')
             row = {
                 'FilePath': str(img_path),
                 'FileName': img_path.name,
                 'PredictedCategory': best_label,
+                'Date': date_str,
             }
             for i, (label, _) in enumerate(text_labels):
                 row[f'Score_{label}'] = f"{sims[i]:.4f}"
@@ -66,13 +70,22 @@ def main():
             continue
 
     os.makedirs(Path(args.out_csv).parent, exist_ok=True)
+    score_fields = list(rows[0].keys()) if rows else ['FilePath','FileName','PredictedCategory']
     with open(args.out_csv, 'w', newline='', encoding='utf-8') as f:
-        writer = csv.DictWriter(f, fieldnames=list(rows[0].keys()) if rows else ['FilePath','FileName','PredictedCategory'])
+        writer = csv.DictWriter(f, fieldnames=score_fields)
         writer.writeheader()
         for r in rows:
             writer.writerow(r)
 
+    organized = sorted(rows, key=lambda r: (r['PredictedCategory'], r['Date'], r['FileName']))
+    with open(args.out_categories_csv, 'w', newline='', encoding='utf-8') as f:
+        writer = csv.DictWriter(f, fieldnames=['PredictedCategory', 'Date', 'FilePath', 'FileName'])
+        writer.writeheader()
+        for r in organized:
+            writer.writerow({k: r[k] for k in writer.fieldnames})
+
     print(f"Wrote vision scores → {args.out_csv} ({len(rows)} files)")
+    print(f"Wrote organized categories → {args.out_categories_csv}")
 
 if __name__ == '__main__':
     main()
