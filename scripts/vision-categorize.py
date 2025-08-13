@@ -45,13 +45,13 @@ def main():
 
     for img_path in sorted(images):
         try:
-            img = Image.open(img_path).convert('RGB')
-            image = preprocess(img).unsqueeze(0).to(device)
-            with torch.no_grad():
-                image_features = model.encode_image(image)
-                image_features /= image_features.norm(dim=-1, keepdim=True)
-                # cosine similarity
-                sims = (image_features @ text_features.T).squeeze(0).tolist()
+            with Image.open(img_path) as img:
+                image = preprocess(img.convert('RGB')).unsqueeze(0).to(device)
+                with torch.no_grad():
+                    image_features = model.encode_image(image)
+                    image_features /= image_features.norm(dim=-1, keepdim=True)
+                    # cosine similarity
+                    sims = (image_features @ text_features.T).squeeze(0).tolist()
             best_idx = int(max(range(len(sims)), key=lambda i: sims[i]))
             best_label = text_labels[best_idx][0]
             row = {
@@ -62,7 +62,8 @@ def main():
             for i, (label, _) in enumerate(text_labels):
                 row[f'Score_{label}'] = f"{sims[i]:.4f}"
             rows.append(row)
-        except Exception:
+        except Exception as e:
+            print(f"Error processing {img_path}: {e}")
             continue
 
     os.makedirs(Path(args.out_csv).parent, exist_ok=True)
