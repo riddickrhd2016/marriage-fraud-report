@@ -8,7 +8,7 @@ Contents:
 - 02-evidence: raw and redacted evidence
 - 03-correspondence: cover letters
 - 04-logs: evidence index and hashes
-- 05-exports: packaged zip for submission
+- 05-exports: packaged zip for submission (created by `scripts/package.ps1`)
 - 06-legal: affidavit template and any legal notes
 
 Notes:
