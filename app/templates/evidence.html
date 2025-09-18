@@ -1,0 +1,53 @@
+{% extends "base.html" %}
+{% block title %}Evidence Index · Marriage Fraud Report Dashboard{% endblock %}
+{% block content %}
+<section class="card">
+  <h2>Evidence Index</h2>
+  <p>
+    Entries correspond to rows in <code>04-logs/Evidence-Index.csv</code>. Use
+    the search box to quickly filter by ID, description, or source.
+  </p>
+  <input id="evidence-search" type="search" placeholder="Search evidence…" aria-label="Search evidence" />
+  <div class="table-wrapper">
+    <table id="evidence-table">
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Description</th>
+          <th>Source</th>
+          <th>Date Collected</th>
+          <th>Relevance</th>
+          <th>Redacted Version</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for record in records %}
+        <tr>
+          <td data-label="ID">{{ record.id }}</td>
+          <td data-label="Description">{{ record.description }}</td>
+          <td data-label="Source">{{ record.source }}</td>
+          <td data-label="Date">{{ record.date_collected_display }}</td>
+          <td data-label="Relevance">{{ record.relevance }}</td>
+          <td data-label="Redacted Version">{{ record.redacted_version or "—" }}</td>
+        </tr>
+        {% else %}
+        <tr>
+          <td colspan="6">No evidence records found.</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</section>
+<script>
+  const searchInput = document.getElementById('evidence-search');
+  const rows = Array.from(document.querySelectorAll('#evidence-table tbody tr'));
+  searchInput.addEventListener('input', () => {
+    const query = searchInput.value.trim().toLowerCase();
+    rows.forEach(row => {
+      const text = row.textContent.toLowerCase();
+      row.style.display = text.includes(query) ? '' : 'none';
+    });
+  });
+</script>
+{% endblock %}

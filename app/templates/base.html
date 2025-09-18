@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{% block title %}Marriage Fraud Report Dashboard{% endblock %}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}" />
+  </head>
+  <body>
+    <header class="app-header">
+      <div class="container">
+        <h1>Marriage Fraud Report Dashboard</h1>
+        <nav>
+          <a href="{{ url_for('index') }}">Overview</a>
+          <a href="{{ url_for('evidence') }}">Evidence Index</a>
+          <a href="{{ url_for('timeline') }}">Timeline</a>
+        </nav>
+      </div>
+    </header>
+    <main class="container">
+      {% block content %}{% endblock %}
+    </main>
+    <footer class="app-footer">
+      <div class="container">
+        <small>Data sourced from workspace logs. Sensitive files remain offline.</small>
+      </div>
+    </footer>
+  </body>
+</html>

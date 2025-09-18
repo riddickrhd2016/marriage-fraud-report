@@ -29,3 +29,32 @@ Notes:
   ```powershell
   .\scripts\merge-chronology.ps1 -ScreenshotChronoCsv '.\04-logs\screenshots-chronology.csv' -TranscriptChronoCsv '.\04-logs\transcript-chronology.csv' -OutCsv '.\04-logs\master-chronology.csv'
   ```
+## Dashboard web app
+
+A lightweight Flask dashboard is available under `app/`. It reads the CSV logs in
+`04-logs` to provide a quick overview of evidence and chronology data.
+
+### Setup
+
+1. Create a virtual environment and install dependencies:
+
+   ```bash
+   python -m venv .venv
+   source .venv/bin/activate
+   pip install -r requirements.txt
+   ```
+
+2. Run the development server:
+
+   ```bash
+   flask --app app.app --debug run
+   ```
+
+   The dashboard is served on <http://localhost:5000/>.
+
+### Features
+
+- Overview card summarizing evidence sources and timeline buckets.
+- Searchable evidence index table with responsive layout.
+- Timeline table with toggle to show only flagged events.
+- Automatic refresh of data whenever the CSV files in `04-logs` change.

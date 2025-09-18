@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+{% block title %}Overview · Marriage Fraud Report Dashboard{% endblock %}
+{% block content %}
+<section class="summary-grid">
+  <article class="card">
+    <h2>Total Evidence Items</h2>
+    <p class="metric">{{ evidence_summary.total }}</p>
+    <h3>By Source</h3>
+    <ul>
+      {% for source, count in evidence_summary.by_source.items() %}
+      <li><strong>{{ count }}</strong> · {{ source }}</li>
+      {% else %}
+      <li>No evidence has been indexed.</li>
+      {% endfor %}
+    </ul>
+  </article>
+  <article class="card">
+    <h2>Timeline Records</h2>
+    <p class="metric">{{ timeline_summary.total }}</p>
+    <p>{{ timeline_summary.flagged }} flagged for follow-up</p>
+    <h3>By Bucket</h3>
+    <ul>
+      {% for bucket, count in timeline_summary.by_bucket.items() %}
+      <li><strong>{{ count }}</strong> · {{ bucket }}</li>
+      {% else %}
+      <li>No timeline entries available.</li>
+      {% endfor %}
+    </ul>
+  </article>
+</section>
+<section class="card">
+  <h2>How to Use This Dashboard</h2>
+  <p>
+    This lightweight viewer helps you review the material gathered in the
+    marriage fraud reporting workspace. Use the Evidence Index tab to scan the
+    curated list of exhibits, and the Timeline tab to review chronological
+    events generated from OCR and transcript data.
+  </p>
+  <p>
+    The dashboard reads the CSV files directly from the <code>04-logs</code>
+    directory, so any updates to the logs are reflected automatically when the
+    app reloads.
+  </p>
+</section>
+{% endblock %}
