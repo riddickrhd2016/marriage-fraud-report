@@ -5,3 +5,6 @@
 *.rar
 *.tmp
 Thumbs.db
+
+__pycache__/
+.venv/

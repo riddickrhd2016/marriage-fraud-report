@@ -1,0 +1,55 @@
+{% extends "base.html" %}
+{% block title %}Timeline · Marriage Fraud Report Dashboard{% endblock %}
+{% block content %}
+<section class="card">
+  <h2>Timeline</h2>
+  <p>
+    Entries are sorted by their recorded date. Toggle the switch to focus on
+    items flagged for follow-up.
+  </p>
+  <label class="toggle">
+    <input id="flag-toggle" type="checkbox" />
+    <span>Show only flagged entries</span>
+  </label>
+  <div class="table-wrapper">
+    <table id="timeline-table">
+      <thead>
+        <tr>
+          <th>Date</th>
+          <th>Evidence Bucket</th>
+          <th>File</th>
+          <th>Source</th>
+          <th>Concern</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for entry in entries %}
+        <tr data-flagged="{{ 'true' if entry.concern_flag else 'false' }}">
+          <td data-label="Date">{{ entry.recorded_at_display }}</td>
+          <td data-label="Bucket">{{ entry.bucket }}</td>
+          <td data-label="File">{{ entry.file_name }}</td>
+          <td data-label="Source">{{ entry.source }}</td>
+          <td data-label="Concern">{{ 'Flagged' if entry.concern_flag else '—' }}</td>
+        </tr>
+        {% else %}
+        <tr>
+          <td colspan="5">No timeline entries found.</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</section>
+<script>
+  const flagToggle = document.getElementById('flag-toggle');
+  const timelineRows = Array.from(document.querySelectorAll('#timeline-table tbody tr'));
+  flagToggle.addEventListener('change', () => {
+    const onlyFlagged = flagToggle.checked;
+    timelineRows.forEach(row => {
+      if (!row.dataset.flagged) return;
+      const isFlagged = row.dataset.flagged === 'true';
+      row.style.display = !onlyFlagged || isFlagged ? '' : 'none';
+    });
+  });
+</script>
+{% endblock %}
